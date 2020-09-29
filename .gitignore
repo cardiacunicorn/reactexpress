@@ -1,0 +1,3 @@
+# excludes node modules even in subfolders
+node_modules/
+.DS_Store
